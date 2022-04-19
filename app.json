@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-navigation-v6",
+    "slug": "react-native-navigation-v6",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
